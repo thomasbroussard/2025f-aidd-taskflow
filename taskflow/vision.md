@@ -41,3 +41,7 @@ and persistent data.
   design system consistency
 - App Router over Pages Router: Next.js 14+ standard,
   better Server Components support
+
+## Specific advices
+
+use cmd instead of powershell as powershell has restricted execution policy on my computer
